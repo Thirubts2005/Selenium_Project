@@ -2,12 +2,10 @@ IMDb 2026 Movie Scraper 🎬
 
 A Python-based IMDb movie scraper that collects movie information and exports the results into Excel files for easy analysis and management.
 
-<img width="1400" height="735" alt="image" src="https://github.com/user-attachments/assets/5e729430-e8f4-43a1-9565-7365a357c3b9" />
-
 
 📌 Project Overview
 
-IMDb 2026 Scraper is an automation project built with Python and Selenium to collect movie information from IMDb pages.
+ 2026 Scraper is an automation project built with Python and Selenium to collect movie information .
 
 The scraper is designed to extract useful movie details such as:
 
@@ -26,8 +24,6 @@ The scraper is designed to extract useful movie details such as:
 ⏱️ Runtime
 
 📝 Plot
-
-🆔 IMDb ID
 
 🖼️ Poster URL
 
@@ -81,13 +77,12 @@ OpenPyXL
 
 Excel file generation
 
-IMDb
 
 Movie data source
 
 📂 Project Structure
 
-IMDB_2026_Scraper/
+2026_Scraper/
 │
 ├── images/
 │   └── project-preview.png
@@ -151,7 +146,6 @@ Directors
 Cast
 Runtime
 Plot
-IMDb ID
 Poster URL
 Release Date
 
