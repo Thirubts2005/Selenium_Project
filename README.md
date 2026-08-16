@@ -1,6 +1,6 @@
-IMDb 2026 Movie Scraper 🎬
+Movie Scraper 🎬
 
-A Python-based IMDb movie scraper that collects movie information and exports the results into Excel files for easy analysis and management.
+A Python-based  movie scraper that collects movie information and exports the results into Excel files for easy analysis and management.
 
 
 📌 Project Overview
@@ -12,8 +12,6 @@ The scraper is designed to extract useful movie details such as:
 🎬 Movie title
 
 📅 Release year
-
-⭐ IMDb rating
 
 🎭 Genres
 
@@ -33,7 +31,7 @@ The collected information can then be exported to Excel for further analysis.
 
 ✨ Features
 
-Automated IMDb data collection
+Automated  data collection
 
 Selenium-based browser automation
 
